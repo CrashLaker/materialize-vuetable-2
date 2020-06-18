@@ -1,3 +1,5 @@
+![](/cover.png?raw=true)
+
 # tables2
 
 ## Project setup
